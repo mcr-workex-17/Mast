@@ -1,0 +1,1 @@
+{"#testmastbot": "https://hooks.slack.com/services/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", "#general": "https://hooks.slack.com/services/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", "#bot_testing": "https://hooks.slack.com/services/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"}
